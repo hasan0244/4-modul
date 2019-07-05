@@ -1,0 +1,7 @@
+C:\Users\Student KK1\Desktop\it cariera 4 modul\22.06\dinamichna realizaciq na spisik\obj\Debug\dinamichna realizaciq na spisik.csprojAssemblyReference.cache
+C:\Users\Student KK1\Desktop\it cariera 4 modul\22.06\dinamichna realizaciq na spisik\obj\Debug\dinamichna realizaciq na spisik.csproj.CoreCompileInputs.cache
+C:\Users\Student KK1\Desktop\it cariera 4 modul\22.06\dinamichna realizaciq na spisik\bin\Debug\dinamichna realizaciq na spisik.exe.config
+C:\Users\Student KK1\Desktop\it cariera 4 modul\22.06\dinamichna realizaciq na spisik\bin\Debug\dinamichna realizaciq na spisik.exe
+C:\Users\Student KK1\Desktop\it cariera 4 modul\22.06\dinamichna realizaciq na spisik\bin\Debug\dinamichna realizaciq na spisik.pdb
+C:\Users\Student KK1\Desktop\it cariera 4 modul\22.06\dinamichna realizaciq na spisik\obj\Debug\dinamichna realizaciq na spisik.exe
+C:\Users\Student KK1\Desktop\it cariera 4 modul\22.06\dinamichna realizaciq na spisik\obj\Debug\dinamichna realizaciq na spisik.pdb

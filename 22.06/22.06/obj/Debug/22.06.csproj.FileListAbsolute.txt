@@ -1,0 +1,7 @@
+C:\Users\Student KK1\Desktop\IT cariera\22.06\22.06\obj\Debug\22.06.csprojAssemblyReference.cache
+C:\Users\Student KK1\Desktop\IT cariera\22.06\22.06\obj\Debug\22.06.csproj.CoreCompileInputs.cache
+C:\Users\Student KK1\Desktop\IT cariera\22.06\22.06\bin\Debug\22.06.exe.config
+C:\Users\Student KK1\Desktop\IT cariera\22.06\22.06\bin\Debug\22.06.exe
+C:\Users\Student KK1\Desktop\IT cariera\22.06\22.06\bin\Debug\22.06.pdb
+C:\Users\Student KK1\Desktop\IT cariera\22.06\22.06\obj\Debug\22.06.exe
+C:\Users\Student KK1\Desktop\IT cariera\22.06\22.06\obj\Debug\22.06.pdb

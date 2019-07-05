@@ -1,0 +1,7 @@
+C:\Users\Student KK1\Desktop\it cariera 4 modul\23.06\23.06\bin\Debug\23.06.exe.config
+C:\Users\Student KK1\Desktop\it cariera 4 modul\23.06\23.06\bin\Debug\23.06.exe
+C:\Users\Student KK1\Desktop\it cariera 4 modul\23.06\23.06\bin\Debug\23.06.pdb
+C:\Users\Student KK1\Desktop\it cariera 4 modul\23.06\23.06\obj\Debug\23.06.csprojAssemblyReference.cache
+C:\Users\Student KK1\Desktop\it cariera 4 modul\23.06\23.06\obj\Debug\23.06.csproj.CoreCompileInputs.cache
+C:\Users\Student KK1\Desktop\it cariera 4 modul\23.06\23.06\obj\Debug\23.06.exe
+C:\Users\Student KK1\Desktop\it cariera 4 modul\23.06\23.06\obj\Debug\23.06.pdb
